@@ -30,7 +30,7 @@ In this video, I built a complete multi-agent system using CrewAI for agents and
 - **Tools:** Custom Python Tool, python-dotenv
 
 ### ⚙️ How to Run Locally:
-1. Clone: `git clone https://github.com/usmanAISystem/autonomous-multi-agent-system-crewai-langgraph.git`
+1. Clone: git clone https://github.com/usmanAISystem/autonomous-multi-agent-system-crewai-langgraph.git
 2. Install: `pip install -r requirements.txt`
 3. Add `.env` file: `GEMINI_API_KEY=your_key_here`
 4. Run: `python multiple.py`
