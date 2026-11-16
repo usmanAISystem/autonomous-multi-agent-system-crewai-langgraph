@@ -1,4 +1,4 @@
-# 🤖 Autonomous Multi-Agent AI System | CrewAI + LangGraph + Gemini 2.0
+# 🤖 Autonomous Multi-Agent AI System | CrewAI + LangGraph + Gemini 3.5
 
 > A fully autonomous 2-agent AI workflow that scrapes B2B leads and writes hyper-personalized cold emails without any human intervention.
 
@@ -25,7 +25,7 @@ In this video, I built a complete multi-agent system using CrewAI for agents and
 
 ### 🛠️ Tech Stack:
 - **Framework:** CrewAI, LangGraph, LangChain
-- **LLM:** Google Gemini 2.0 Flash
+- **LLM:** Google Gemini 3.5 Flash
 - **Language:** Python 3.10+
 - **Tools:** Custom Python Tool, python-dotenv
 
