@@ -9,7 +9,7 @@ load_dotenv()
 
 # LLM Setup - Uses GEMINI_API_KEY from .env
 llm = LLM(
-    model="gemini/gemini-2.0-flash", 
+    model="gemini/gemini-3.5-flash", 
     temperature=0.1,
     max_retries=5
 )
